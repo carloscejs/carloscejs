@@ -3,8 +3,10 @@
 - 🔭 Atualmente, atuo na gestão acadêmica e como professor em cursos de graduação e pós-graduação. Tenho uma sólida experiência como gerente de manutenção de aeronaves na Força Aérea Brasileira, com anos de dedicação nessa área.
 - 🎓 Sou aluno de doutorado no Instituto Tecnológico da Aeronáutica / Universidade Federal de São Paulo, com foco em Engenharia de Produção e Pesquisa Operacional. Além disso, possuo mestrado em administração e desenvolvimento empresarial.
 - 🌱 Estou mergulhando nos universos de Python e R, buscando aprimorar minhas habilidades em programação e análise de dados.
-- 👯 Estou aberto a colaborações em projetos de Ciência de Dados.
+- 👯 Estou aberto a colaborações em projetos de Data Science.
 - 🙋🏽‍♂️ Pronomes: ele/dele.
+  
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/carloscejs/count.svg" /></p>
   
 ##
 
@@ -35,3 +37,4 @@
 </div>
 
 ##
+![snake gif](https://github.com/carloscejs/carloscejs/blob/output/github-contribution-grid-snake.svg)
